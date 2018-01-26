@@ -1,4 +1,4 @@
-var LAG_FIRST_NAME = [
+window.LAG_FIRST_NAME = [
     "Emma",
     "Larissa",
     "Edith",
@@ -153,7 +153,7 @@ var LAG_FIRST_NAME = [
     "Lance"
 ];
 
-var LAG_LAST_NAME = [
+window.LAG_LAST_NAME = [
     "Aaron",
     "Abel",
     "Abraham",
